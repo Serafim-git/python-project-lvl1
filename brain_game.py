@@ -20,5 +20,3 @@ if q3 == 24:
     print('Congratulations, ' + user_name + '!')
 else:
     print('Error! Try again!')
-
-#test
